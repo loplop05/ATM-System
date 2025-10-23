@@ -1,0 +1,13 @@
+# Ignore Visual Studio temp files
+.vs/
+*.user
+*.suo
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+*.log
+bin/
+obj/
+Debug/
+Release/
